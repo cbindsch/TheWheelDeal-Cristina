@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "833401544820",
+    "firebase_url": "https://mybase-c26b3.firebaseio.com",
+    "project_id": "mybase-c26b3",
+    "storage_bucket": "mybase-c26b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833401544820:android:86e9cd4dd399fd4f",
+        "android_client_info": {
+          "package_name": "edu.umflint.thewheeldeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833401544820-8g6q42h1utmo6aod5gvq38vlpetdllri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPk_egk8bJOrRvM2zxfFqn3F_4N7UuJ5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Theme Colors -->
+    <!-- Branding for app bar -->
+    <color name="colorPrimary">#f3501e</color>
+    <color name="colorPrimaryDark">#E54C1C</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bottomNavigation">#E54C1C</color>
+    <color name="black_overlay">#66000000</color>
+</resources>
